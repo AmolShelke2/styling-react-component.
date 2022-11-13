@@ -43,3 +43,5 @@ const CourseInput = props => {
 };
 
 export default CourseInput;
+
+// Setting classes dynamically
