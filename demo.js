@@ -25,5 +25,5 @@ const obj4 = {
   // name: 'Mr obj4',
   // age: 15,
 };
-
+tdfzx;
 if (JSON.stringify(obj4).lenght === 0 || '{}') console.log('Object is empty');
